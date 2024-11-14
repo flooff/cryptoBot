@@ -1,7 +1,6 @@
 
 ---
 
-### Key sections of this README:
 
 1. **Cloning the project** and installing dependencies.
 2. **Configuration** of files with your Etherscan API key and QuestDB details.
